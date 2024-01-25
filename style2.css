@@ -1,0 +1,116 @@
+.container{
+    
+box-shadow: 0px 5px 27px 11px rgba(255, 181, 21, 0.1);
+
+}
+/* .container-fluid{
+   width: 1920px;
+height: 604px;
+top: 1937px; */
+
+
+
+
+
+
+}
+
+
+.bg-grey{
+    
+width: 1920px;
+height: 604px;
+top: 1937px;
+
+  background-color: rgb(123, 120, 103);
+
+}
+
+/* .mw-100{
+    position:absolute;
+    width: 218px;
+height: 218px;
+top: 2177px;
+left: 219px;
+border-radius: 144px;
+ */
+}
+.container-sm{
+    width: 1920px;
+height: 5096px;
+top: -2196px;
+left: -481px;
+
+}
+.bg-yellow{
+  background-color: rgba(253, 190, 53, 1);
+ width: 1920px;
+height: 632px;
+top: 101px;
+left: 1px;
+
+}
+.look{
+  width: 519px;
+height: 88px;
+top: 243px;
+left: 178px;
+
+}
+.png{
+  width: 524px;
+height: 424px;
+top: 225px;
+left: 1220px;
+
+}
+.container1{
+  background-image: url("img/Rectangle 22 (1).png");
+  width: 1920px; 
+  height: 632px ;
+  top: 101px ;
+  left: 1px;
+  align-items:center;
+}
+#col1{
+  left:180px;
+}
+#col2{
+  left:1220px;
+}
+#look{
+  width: 519px;
+  height: 88px;
+  top: 300px;
+  left: 178px
+}
+#within{
+  width: 532px ;
+  height: 26px ;
+  top: 350px ;
+  left: 178px;
+}
+#top{
+width: Fixed (856px); 
+height: Hug (86px) ;
+top: 400px ;
+left: 178px ;
+/* padding: 24px ;
+gap: 8px;; */
+}
+#bottom{
+width: Fixed (856px);
+height: Hug (108px) ;
+top: 486.441650390625px ;
+left: 178px ;
+/* padding: 24px;
+gap: 10px; */
+}
+#pngegg{
+  width: 524px; 
+  height: 424px ;
+  top: 225px ;
+  left: 1220px;
+  padding:20px;
+  gap:20px;
+}
